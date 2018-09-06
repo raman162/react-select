@@ -31,8 +31,8 @@ React-select v2 is a complete rewrite, and includes some major changes:
 * You can use any shape of data in your options array, and control how they are
   handled by providing custom functions
 
-With that in mind, we've tried to make the upgrade as easy as possible. How
-complex the upgrade is will depend on how much you have customised react-select.
+With that in mind, we've tried to make the upgrade as easy as possible. The
+complexity of the upgrade depends on how much you have customizsed react-select.
 
 We've also done our best to keep feature parity with v1, either through
 continuing to support props or by providing another way to achieve the same
